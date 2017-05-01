@@ -1,0 +1,15 @@
+Nome:Renan Kodama Rodrigues RA:1602098
+Universidade Tecnologica Federal do Paraná -Campo Mourão(UTFPR-CM)
+Linguagens Formais e Automatos Computacionais
+
+a b
+b a
+E
+Q0 Q1 Q2 Q3
+Q0
+Q3
+Q0 a Z Q1 A
+Q1 a A Q1 A
+Q1 b A Q2 -A
+Q2 b A Q2 -A
+Q2 $ Z Q3 $
