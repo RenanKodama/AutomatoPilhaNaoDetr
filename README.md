@@ -1,2 +1,0 @@
-# AutomatoPilhaNaoFinito
-UTFPR
